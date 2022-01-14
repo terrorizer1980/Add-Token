@@ -8,7 +8,7 @@
     "@material-ui/core": "^3.0.0",
     "etherscan-link": "^1.0.3",
     "ethjs-query": "^0.3.8",
-    "prop-types": "^15.6.2",
+    "prop-types": "^15.8.0",
     "querystringify": "^2.0.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
