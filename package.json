@@ -14,9 +14,9 @@
     "react-dom": "^16.4.2",
     "react-form": "^3.5.6",
     "react-jsonschema-form": "^1.0.4",
-    "react-router": "^4.3.1",
-    "react-router-dom": "^4.3.1",
-    "react-scripts": "1.1.5",
+    "react-router": "^6.0.0",
+    "react-router-dom": "^6.0.0",
+    "react-scripts": "2.0.3",
     "react-web3": "danfinlay/react-web3#Improve-1102-Support",
     "redux-form": "^7.4.2"
   },
